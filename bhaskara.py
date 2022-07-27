@@ -5,7 +5,7 @@ sg.ChangeLookAndFeel('SystemDefault')
 
 layout = [
     [sg.Text('Fórmula de Bhaskara:', background_color='White')],
-    [sg.Image(r'image.png')],#Adicione uma imagem da fórmula de bhaskara junto a esse programa
+    [sg.Image(r'image.png')],#Adicione uma imagem da fórmula de Bhaskara junto a esse programa
     [sg.Text('Digite o valor de A: ', background_color='White'), sg.Input(size=(10, 0), key='na')],
     [sg.Text('Digite o valor de B: ', background_color='White'), sg.Input(size=(10, 0), key='nb')],
     [sg.Text('Digite o valor de C: ', background_color='White'), sg.Input(size=(10, 0), key='nc')],
