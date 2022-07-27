@@ -1,5 +1,5 @@
 """
-Jogo do NIM
+Jogo do NIM!
 Desenvolvido por m1mir
 Exercício de Python idealizado pela USP no curso de introdução à ciencia da computação com Python parte 1
 """
