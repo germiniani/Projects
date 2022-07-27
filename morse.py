@@ -1,5 +1,6 @@
 import os
 
+
 def traduz_morse(frase_original):
     morse_code = {'a': '.-', 'b': '-...', 'c': '-.-.', 'd': '-..', 'e': '.',
               'f': '..-.', 'g': '--.', 'h': '....', 'i': '..', 'j': '.---',
@@ -23,6 +24,7 @@ def traduz_morse(frase_original):
             frase_traduzida = "Há algum caracter inválido!"
             break
     return frase_traduzida
+
 
 def main():
     while True:
