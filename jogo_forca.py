@@ -1,5 +1,6 @@
 import os
 
+
 def forca():
     palavra = input("Palavra chave: ")
     resultado = False
